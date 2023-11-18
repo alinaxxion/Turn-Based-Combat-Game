@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turn Based Combat Game", "Turn Based Combat Game\Turn Based Combat Game.csproj", "{A994B195-188E-47DD-A02F-7BAD7A15E645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A994B195-188E-47DD-A02F-7BAD7A15E645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A994B195-188E-47DD-A02F-7BAD7A15E645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A994B195-188E-47DD-A02F-7BAD7A15E645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A994B195-188E-47DD-A02F-7BAD7A15E645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05E4DFDB-543A-4AF4-9E90-7F3F2950D3FC}
+	EndGlobalSection
+EndGlobal
